@@ -1,0 +1,8 @@
+->Before eecuting the program make sure that the following packages are installed:
+  openpyxl
+  selenium
+  csv
+  webdriver
+->There are two types of programs one for generating excel output and other is for generating CSV file
+->First execute the part1 main programs then the output will be presrent in output folder of current working directory
+->Before executing part2 main program we have to execute part1 excel main program (Since the input to part2 program is the output of part1 excel file)
